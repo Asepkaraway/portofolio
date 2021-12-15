@@ -2,5 +2,7 @@ Web devaloper
 - harus rajin melihat tutorial
 - lihat,baca,praktek
 - konsisten dalam membuat sebuah project mau pun yang mudah atau sulit selagi masih bisa ajar terus
-- setiap kali saya sudah selesai membuat project saya harus memberi otak saya untuk beristirahat
+- setiap kali saya sudah selesai membuat project saya harus memberi otak istirahat
 - libur selama 3 hari paling lama 1 minggu
+- Jangan Cepat puas dalam mempelajari Codingan 
+- memcari permasalahan Erro atau Bug di Google dengan B.inggriss 
