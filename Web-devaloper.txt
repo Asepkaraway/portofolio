@@ -6,3 +6,5 @@ Web devaloper
 - libur selama 3 hari paling lama 1 minggu
 - Jangan Cepat puas dalam mempelajari Codingan 
 - memcari permasalahan Erro atau Bug di Google dengan B.inggriss 
+-Belajar Git dan Github 
+-belajar Framework
